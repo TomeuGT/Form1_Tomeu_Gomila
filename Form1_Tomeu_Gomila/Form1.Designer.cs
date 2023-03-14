@@ -84,7 +84,7 @@
             this.label12.TabIndex = 0;
             this.label12.Text = "WELCOME TO VIRTUAL BOX MANAGEMENT";
             this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label12.Click += new System.EventHandler(this.label12_Click);
+            
             // 
             // label1
             // 
@@ -97,7 +97,7 @@
             this.label1.Size = new System.Drawing.Size(51, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "IP HOST:";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            
             // 
             // label3
             // 
@@ -110,7 +110,7 @@
             this.label3.Size = new System.Drawing.Size(71, 17);
             this.label3.TabIndex = 2;
             this.label3.Text = "IP GETAWAY:";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
+            
             // 
             // label4
             // 
@@ -123,7 +123,7 @@
             this.label4.Size = new System.Drawing.Size(65, 17);
             this.label4.TabIndex = 3;
             this.label4.Text = "USERNAME:";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
+            
             // 
             // label5
             // 
@@ -136,7 +136,7 @@
             this.label5.Size = new System.Drawing.Size(66, 17);
             this.label5.TabIndex = 4;
             this.label5.Text = "HOSTNAME:";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
+           
             // 
             // label6
             // 
@@ -149,7 +149,7 @@
             this.label6.Size = new System.Drawing.Size(36, 17);
             this.label6.TabIndex = 5;
             this.label6.Text = "SSID:";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
+            
             // 
             // label7
             // 
@@ -162,7 +162,7 @@
             this.label7.Size = new System.Drawing.Size(76, 17);
             this.label7.TabIndex = 6;
             this.label7.Text = "SSID STATUS:";
-            this.label7.Click += new System.EventHandler(this.label7_Click);
+            
             // 
             // label8
             // 
@@ -175,7 +175,7 @@
             this.label8.Size = new System.Drawing.Size(83, 17);
             this.label8.TabIndex = 7;
             this.label8.Text = "MAC ADDRESS:";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
+            
             // 
             // label9
             // 
@@ -188,7 +188,7 @@
             this.label9.Size = new System.Drawing.Size(124, 17);
             this.label9.TabIndex = 8;
             this.label9.Text = "INTERNET CONNECTION:";
-            this.label9.Click += new System.EventHandler(this.label9_Click);
+            
             // 
             // label10
             // 
@@ -201,7 +201,7 @@
             this.label10.Size = new System.Drawing.Size(144, 17);
             this.label10.TabIndex = 9;
             this.label10.Text = "IS VIRTUALBOX INSTALLED?";
-            this.label10.Click += new System.EventHandler(this.label10_Click);
+            
             // 
             // label11
             // 
@@ -214,7 +214,7 @@
             this.label11.Size = new System.Drawing.Size(121, 17);
             this.label11.TabIndex = 10;
             this.label11.Text = "VIRTUAL BOX VERSION:";
-            this.label11.Click += new System.EventHandler(this.label11_Click);
+            
             // 
             // lbl_Username
             // 
@@ -351,7 +351,7 @@
             this.pictureBox1.Size = new System.Drawing.Size(804, 451);
             this.pictureBox1.TabIndex = 23;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            
             // 
             // Form1
             // 

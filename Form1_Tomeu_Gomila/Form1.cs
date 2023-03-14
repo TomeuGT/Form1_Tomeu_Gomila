@@ -244,6 +244,5 @@ namespace Form1_Tomeu_Gomila
                 lbl_VBOX_V.ForeColor = Color.Red;
             }
         }
-
     }
 }
